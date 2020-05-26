@@ -1,6 +1,6 @@
-- TeknologiWebCodeigniter
+# TeknologiWebCodeigniter
 
-- Kelompok
+Kelompok
 
 - Ares Yudha_172101794
 - Yuvensius_172101791
@@ -8,6 +8,6 @@
 - Abdul Aziz Ashiddiqie_172101887
 - Daleano Rindo Talindo_172101822
 
-- Buat Commit setiap ngubah coding 
+# Buat Commit setiap ngubah coding 
 
-- Kasi Keterangan dikoding kalo ngubah (#keterangan)
+# Kasi Keterangan dikoding kalo ngubah (#keterangan)
