@@ -1,7 +1,7 @@
 # TeknologiWebCodeigniter
 # Kelompok
--Yuvensius  -
--Ares Yudha -
+- Yuvensius  -
+- Ares Yudha -
 -
 -
 -
