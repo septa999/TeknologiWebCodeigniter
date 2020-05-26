@@ -1,7 +1,6 @@
 # TeknologiWebCodeigniter
 # Kelompok
-- Yuvensius  -
-- Ares Yudha -
+- Ares Yudha_172101794
 -
 -
 -
